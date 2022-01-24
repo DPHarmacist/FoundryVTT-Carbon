@@ -1,0 +1,256 @@
+{
+  "actors": [],
+  "items": [],
+  "folders": [
+    {
+      "_id": "dxPqH8aKRbNaqvx6",
+      "name": "_COMPENDIUM",
+      "type": "Item",
+      "parent": null,
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "RLMVVtAFqJbRoQnj",
+      "name": "_cITEMS",
+      "type": "Item",
+      "parent": "dxPqH8aKRbNaqvx6",
+      "sorting": "a",
+      "sort": 100000,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "wCMZTcRSMVkAMzzG",
+      "name": "Classes",
+      "type": "Item",
+      "parent": "RLMVVtAFqJbRoQnj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "aorT5BzAgCEMLZh3",
+      "name": "Origins",
+      "type": "Item",
+      "parent": "RLMVVtAFqJbRoQnj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "eOB4679nNs7CyK8q",
+      "name": "_CONFIG",
+      "type": "Item",
+      "parent": "dxPqH8aKRbNaqvx6",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "2nM7dRZX5k0hCdcD",
+      "name": "GROUPS",
+      "type": "Item",
+      "parent": "dxPqH8aKRbNaqvx6",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "In9ulAh5sBxkSm62",
+      "name": "GROUPS_PROPERTIES",
+      "type": "Item",
+      "parent": "dxPqH8aKRbNaqvx6",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "ZIS8qKeiAYFgicsn",
+      "name": "_TEMPLATE",
+      "type": "Item",
+      "parent": null,
+      "sorting": "a",
+      "sort": 100000,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "eyWlWUDVta4dzY9C",
+      "name": "_PANELS",
+      "type": "Item",
+      "parent": "ZIS8qKeiAYFgicsn",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "F0nNkOaP2y7S5znj",
+      "name": "_PROPERTIES",
+      "type": "Item",
+      "parent": "ZIS8qKeiAYFgicsn",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "py9DVXzEFU5Ulffj",
+      "name": "AbilityScores",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "6bz6ixnrnwkPU3av",
+      "name": "Attacks",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "dW4rMo3vABLuJLw1",
+      "name": "Augments",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "mJxJcyO15EUVu3v7",
+      "name": "Career",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "aA3G1NKXx4mllKuK",
+      "name": "Combat",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "olIMnTOuAJQZTLp1",
+      "name": "Death Saves",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "CRihoHYYEG7jEnrF",
+      "name": "Features",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "FGlNxEpovTeCsxLP",
+      "name": "Influence",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "PRNf46hKWs30nuyv",
+      "name": "Info",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "IihBcvJKffUrWPYk",
+      "name": "Inventory",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "ZTbt0DYawGMj3I99",
+      "name": "Skills",
+      "type": "Item",
+      "parent": "F0nNkOaP2y7S5znj",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "ZHQZ9XCsgfBBn4pF",
+      "name": "_Tables",
+      "type": "Item",
+      "parent": "ZIS8qKeiAYFgicsn",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "rgnUx3l0L559cPNQ",
+      "name": "_TABS",
+      "type": "Item",
+      "parent": "ZIS8qKeiAYFgicsn",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "W8bPgBwFzunPKuqn",
+      "name": "_CONFIG",
+      "type": "Actor",
+      "parent": null,
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    },
+    {
+      "_id": "LMqRVDmhEexNUK0E",
+      "name": "PC",
+      "type": "Actor",
+      "parent": "W8bPgBwFzunPKuqn",
+      "sorting": "a",
+      "sort": 0,
+      "color": null,
+      "flags": {}
+    }
+  ]
+}
